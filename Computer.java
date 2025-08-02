@@ -7,7 +7,7 @@ class Com {
 
     public String singername(int cost) {
         if (cost > 900)
-            return "Arjit Singh";
+            return "Ansh and Sakshi";
         else
             return "ABC";
 
