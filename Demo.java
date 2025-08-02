@@ -4,7 +4,7 @@ class Calculator {
     int a;
 
     public int add() {
-        System.out.println("Pratham Purnima");
+        System.out.println("Addition done");
         return 0;
     }
 }
